@@ -8,3 +8,5 @@
 tzyalambratwr/tzyalambratwr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+stdClass Object_(_    [ok] => _    [error_code] => 400_    [description] => Bad Request: chat not found_)_
